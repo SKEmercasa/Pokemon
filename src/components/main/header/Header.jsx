@@ -1,24 +1,20 @@
 import styles from './Header.module.css';
-import MainButton from './mainButton/MainButton';
 import GameButton from './gameButton/GameButton';
-import PokeballButton from './pokeballButton/PokeballButton';
-import StatistButton from './statistButton/StatistButton';
 import Progress from './progress/Progress';
 import AvatarButton from './avatarButton/AvatarButton';
 import Nickname from './nickname/Nickname';
+import { NavLink } from 'react-router-dom';
 
-function Header() {
+export const Header = () => {
   return (
     <div className={styles.header}>
-      <MainButton />
       <GameButton />
-      <PokeballButton />
-      <StatistButton />
+      <NavLink to='/'>Главная</NavLink>
+      <NavLink to='/collection'>Коллекция</NavLink>
+      <NavLink to='/editor'>Редактор</NavLink>
       <Progress />
       <AvatarButton />
       <Nickname />
     </div>
   );
 }
-
-export default Header;

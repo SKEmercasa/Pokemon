@@ -1,6 +1,27 @@
 * {
     margin: 0;
 }
-html {
-    overflow: hidden;
+
+.App {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-areas:
+      "hd hd hd hd hd hd hd hd hd hd"
+      "mn mc mc mc mc mc mc mc mc ct"
+      "mn mc mc mc mc mc mc mc mc ct";
+}
+
+.Menu {
+    grid-area: mn;
+    height: 90vh;
+}
+
+.MainContent {
+    grid-area: mc;
+    height: 90vh;
+}
+
+.Chat {
+    grid-area: ct;
+    height: 90vh;
 }

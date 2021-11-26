@@ -1,5 +1,6 @@
 .header {
     background: gray;
+    grid-area: hd;
     height: 10vh;
     display: flex;
     align-items: center;

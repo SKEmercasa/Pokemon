@@ -1,0 +1,387 @@
+[
+    {
+        "id": "1",
+        "name": "Bulbasaur",
+        "src": "https://pokemongolife.ru/p/Bulbasaur.png"
+    },
+    {
+        "id": "2",
+        "name": "Charmander",
+        "src": "https://pokemongolife.ru/p/Charmander.png"
+    },
+    {
+        "id": "3",
+        "name": "Squirtle",
+        "src": "https://pokemongolife.ru/p/Squirtle.png"
+    },
+    {
+        "id": "4",
+        "name": "Caterpie",
+        "src": "https://pokemongolife.ru/p/Caterpie.png"
+    },
+    {
+        "id": "5",
+        "name": "Weedle",
+        "src": "https://pokemongolife.ru/p/Weedle.png"
+    },
+    {
+        "id": "6",
+        "name": "Pidgey",
+        "src": "https://pokemongolife.ru/p/Pidgey.png"
+    },
+    {
+        "id": "7",
+        "name": "Rattata",
+        "src": "https://pokemongolife.ru/p/Rattata.png"
+    },
+    {
+        "id": "8",
+        "name": "Spearow",
+        "src": "https://pokemongolife.ru/p/Spearow.png"
+    },
+    {
+        "id": "9",
+        "name": "Ekans",
+        "src": "https://pokemongolife.ru/p/Ekans.png"
+    },
+    {
+        "id": "10",
+        "name": "Pikachu",
+        "src": "https://pokemongolife.ru/p/Pikachu.png"
+    },
+    {
+        "id": "11",
+        "name": "Sandshrew",
+        "src": "https://pokemongolife.ru/p/Sandshrew.png"
+    },
+    {
+        "id": "12",
+        "name": "Nidoran-female",
+        "src": "https://pokemongolife.ru/p/Nidoran-female.png"
+    },
+    {
+        "id": "13",
+        "name": "Nidoran-male",
+        "src": "https://pokemongolife.ru/p/Nidoran-male.png"
+    },
+    {
+        "id": "14",
+        "name": "Clefairy",
+        "src": "https://pokemongolife.ru/p/Clefairy.png"
+    },
+    {
+        "id": "15",
+        "name": "Vulpix",
+        "src": "https://pokemongolife.ru/p/Vulpix.png"
+    },
+    {
+        "id": "16",
+        "name": "Jigglypuff",
+        "src": "https://pokemongolife.ru/p/Jigglypuff.png"
+    },
+    {
+        "id": "17",
+        "name": "Zubat",
+        "src": "https://pokemongolife.ru/p/Zubat.png"
+    },
+    {
+        "id": "18",
+        "name": "Oddish",
+        "src": "https://pokemongolife.ru/p/Oddish.png"
+    },
+    {
+        "id": "19",
+        "name": "Paras",
+        "src": "https://pokemongolife.ru/p/Paras.png"
+    },
+    {
+        "id": "20",
+        "name": "Venonat",
+        "src": "https://pokemongolife.ru/p/Venonat.png"
+    },
+    {
+        "id": "21",
+        "name": "Diglett",
+        "src": "https://pokemongolife.ru/p/Charmander.png"
+    },
+    {
+        "id": "22",
+        "name": "Meowth",
+        "src": "https://pokemongolife.ru/p/Charmander.png"
+    },
+    {
+        "id": "23",
+        "name": "Psyduck",
+        "src": "https://pokemongolife.ru/p/Psyduck.png"
+    },
+    {
+        "id": "24",
+        "name": "Mankey",
+        "src": "https://pokemongolife.ru/p/Mankey.png"
+    },
+    {
+        "id": "25",
+        "name": "Growlithe",
+        "src": "https://pokemongolife.ru/p/Growlithe.png"
+    },
+    {
+        "id": "26",
+        "name": "Poliwag",
+        "src": "https://pokemongolife.ru/p/Poliwag.png"
+    },
+    {
+        "id": "27",
+        "name": "Abra",
+        "src": "https://pokemongolife.ru/p/Abra.png"
+    },
+    {
+        "id": "28",
+        "name": "Machop",
+        "src": "https://pokemongolife.ru/p/Machop.png"
+    },
+    {
+        "id": "29",
+        "name": "Bellsprout",
+        "src": "https://pokemongolife.ru/p/Bellsprout.png"
+    },
+    {
+        "id": "30",
+        "name": "Tentacool",
+        "src": "https://pokemongolife.ru/p/Tentacool.png"
+    },
+    {
+        "id": "31",
+        "name": "Geodude",
+        "src": "https://pokemongolife.ru/p/Geodude.png"
+    },
+    {
+        "id": "32",
+        "name": "Ponyta",
+        "src": "https://pokemongolife.ru/p/Ponyta.png"
+    },
+    {
+        "id": "33",
+        "name": "Slowpoke",
+        "src": "https://pokemongolife.ru/p/Slowpoke.png"
+    },
+    {
+        "id": "34",
+        "name": "Magnemite",
+        "src": "https://pokemongolife.ru/p/Magnemite.png"
+    },
+    {
+        "id": "35",
+        "name": "Farfetch",
+        "src": "https://pokemongolife.ru/p/Farfetch.png"
+    },
+    {
+        "id": "36",
+        "name": "Doduo",
+        "src": "https://pokemongolife.ru/p/Doduo.png"
+    },
+    {
+        "id": "37",
+        "name": "Seel",
+        "src": "https://pokemongolife.ru/p/Seel.png"
+    },
+    {
+        "id": "38",
+        "name": "Grimer",
+        "src": "https://pokemongolife.ru/p/Grimer.png"
+    },
+    {
+        "id": "39",
+        "name": "Shellder",
+        "src": "https://pokemongolife.ru/p/Shellder.png"
+    },
+    {
+        "id": "40",
+        "name": "Gastly",
+        "src": "https://pokemongolife.ru/p/Gastly.png"
+    },
+    {
+        "id": "41",
+        "name": "Onix",
+        "src": "https://pokemongolife.ru/p/Onix.png"
+    },
+    {
+        "id": "42",
+        "name": "Drowzee",
+        "src": "https://pokemongolife.ru/p/Drowzee.png"
+    },
+    {
+        "id": "43",
+        "name": "Krabby",
+        "src": "https://pokemongolife.ru/p/Krabby.png"
+    },
+    {
+        "id": "44",
+        "name": "Voltorb",
+        "src": "https://pokemongolife.ru/p/Voltorb.png"
+    },
+    {
+        "id": "45",
+        "name": "Exeggcute",
+        "src": "https://pokemongolife.ru/p/Exeggcute.png"
+    },
+    {
+        "id": "46",
+        "name": "Cubone",
+        "src": "https://pokemongolife.ru/p/Cubone.png"
+    },
+    {
+        "id": "47",
+        "name": "Hitmonlee",
+        "src": "https://pokemongolife.ru/p/Hitmonlee.png"
+    },
+    {
+        "id": "48",
+        "name": "Lickitung",
+        "src": "https://pokemongolife.ru/p/Lickitung.png"
+    },
+    {
+        "id": "49",
+        "name": "Koffing",
+        "src": "https://pokemongolife.ru/p/Koffing.png"
+    },
+    {
+        "id": "50",
+        "name": "Rhyhorn",
+        "src": "https://pokemongolife.ru/p/Rhyhorn.png"
+    },
+    {
+        "id": "51",
+        "name": "Chansey",
+        "src": "https://pokemongolife.ru/p/Chansey.png"
+    },
+    {
+        "id": "52",
+        "name": "Tangela",
+        "src": "https://pokemongolife.ru/p/Tangela.png"
+    },
+    {
+        "id": "53",
+        "name": "Kangaskhan",
+        "src": "https://pokemongolife.ru/p/Kangaskhan.png"
+    },
+    {
+        "id": "54",
+        "name": "Horsea",
+        "src": "https://pokemongolife.ru/p/Horsea.png"
+    },
+    {
+        "id": "55",
+        "name": "Goldeen",
+        "src": "https://pokemongolife.ru/p/Goldeen.png"
+    },
+    {
+        "id": "56",
+        "name": "Staryu",
+        "src": "https://pokemongolife.ru/p/Staryu.png"
+    },
+    {
+        "id": "57",
+        "name": "Mr-Mime",
+        "src": "https://pokemongolife.ru/p/Mr-Mime.png"
+    },
+    {
+        "id": "58",
+        "name": "Scyther",
+        "src": "https://pokemongolife.ru/p/Scyther.png"
+    },
+    {
+        "id": "59",
+        "name": "Jynx",
+        "src": "https://pokemongolife.ru/p/Jynx.png"
+    },
+    {
+        "id": "60",
+        "name": "Electabuzz",
+        "src": "https://pokemongolife.ru/p/Electabuzz.png"
+    },
+    {
+        "id": "61",
+        "name": "Magmar",
+        "src": "https://pokemongolife.ru/p/Magmar.png"
+    },
+    {
+        "id": "62",
+        "name": "Pinsir",
+        "src": "https://pokemongolife.ru/p/Pinsir.png"
+    },
+    {
+        "id": "63",
+        "name": "Tauros",
+        "src": "https://pokemongolife.ru/p/Tauros.png"
+    },
+    {
+        "id": "64",
+        "name": "Magikarp",
+        "src": "https://pokemongolife.ru/p/Magikarp.png"
+    },
+    {
+        "id": "65",
+        "name": "Lapras",
+        "src": "https://pokemongolife.ru/p/Lapras.png"
+    },
+    {
+        "id": "66",
+        "name": "Ditto",
+        "src": "https://pokemongolife.ru/p/Ditto.png"
+    },
+    {
+        "id": "67",
+        "name": "Eevee",
+        "src": "https://pokemongolife.ru/p/Eevee.png"
+    },
+    {
+        "id": "68",
+        "name": "Porygon",
+        "src": "https://pokemongolife.ru/p/Porygon.png"
+    },
+    {
+        "id": "69",
+        "name": "Omanyte",
+        "src": "https://pokemongolife.ru/p/Omanyte.png"
+    },
+    {
+        "id": "70",
+        "name": "Kabuto",
+        "src": "https://pokemongolife.ru/p/Kabuto.png"
+    },
+    {
+        "id": "71",
+        "name": "Aerodactyl",
+        "src": "https://pokemongolife.ru/p/Aerodactyl.png"
+    },
+    {
+        "id": "72",
+        "name": "Snorlax",
+        "src": "https://pokemongolife.ru/p/Snorlax.png"
+    },
+    {
+        "id": "73",
+        "name": "Articuno",
+        "src": "https://pokemongolife.ru/p/Articuno.png"
+    },
+    {
+        "id": "74",
+        "name": "Zapdos",
+        "src": "https://pokemongolife.ru/p/Zapdos.png"
+    },
+    {
+        "id": "75",
+        "name": "Moltres",
+        "src": "https://pokemongolife.ru/p/Moltres.png"
+    },
+    {
+        "id": "76",
+        "name": "Dratini",
+        "src": "https://pokemongolife.ru/p/Dratini.png"
+    },
+    {
+        "id": "77",
+        "name": "Mew",
+        "src": "https://pokemongolife.ru/p/Mew.png"
+    }
+]
